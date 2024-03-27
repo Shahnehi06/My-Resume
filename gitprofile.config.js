@@ -35,7 +35,7 @@ const config = {
     'JavaScript',
     'C',
     'Core Java',
-    'MySQL',
+    'SQL',
     'HTML',
     'React.js',
   ],
