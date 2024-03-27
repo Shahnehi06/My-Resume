@@ -26,27 +26,18 @@ const config = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'usershah0612@gmail.com',
+    email: 'shahnehi06@gmail.com',
   },
   resume: {
     fileUrl:'', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
-    'C#',
     'C',
-    'C++',
-    'Java',
+    'Core Java',
     'MySQL',
-    'PostgreSQL',
-    'MongoDB',
-    'CSS',
     'HTML',
     'React.js',
-    'Node.js',
-    'Git',
-    'GitHub',
-    'Spring Boot',
   ],
   experiences: [
     {
@@ -59,10 +50,10 @@ const config = {
   ],
   /* certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 
+      body: 
+      year: 
+      link: 
     },
   ], */
   education: [
@@ -151,7 +142,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Copyright © 2023 <a 
+  footer: `Copyright © 2024 <a 
       class="text-primary" href="https://github.com/Shahnehi06"
       target="_blank"
       rel="noreferrer"
